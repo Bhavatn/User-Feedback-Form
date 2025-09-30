@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/User-Feedback-Form/static/css/main.1e3985b6.css",
+    "main.js": "/User-Feedback-Form/static/js/main.94b0dcef.js",
+    "index.html": "/User-Feedback-Form/index.html",
+    "main.1e3985b6.css.map": "/User-Feedback-Form/static/css/main.1e3985b6.css.map",
+    "main.94b0dcef.js.map": "/User-Feedback-Form/static/js/main.94b0dcef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e3985b6.css",
+    "static/js/main.94b0dcef.js"
+  ]
+}
